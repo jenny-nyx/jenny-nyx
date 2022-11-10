@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jennythakkar
+- 🌱 I’m currently learning rust
+- 💞️ I’m looking to collaborate on eco-projects
